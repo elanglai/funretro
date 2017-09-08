@@ -4,7 +4,7 @@ container to run a retro board. When a build takes place it grabs the latest fro
 
 # docker hub location
 
-https://hub.docker.com/r/arranbartish/retro/
+https://hub.docker.com/r/elanglai/retro/
 
 ```
 $ docker build -t retro .
